@@ -1,5 +1,5 @@
 #include <iostream>
-#include "stack.hpp"
+#include "../src/stack.hpp"
 
 using namespace std;
 
