@@ -1,4 +1,4 @@
-#include "list.hpp"
+#include "../src/list.hpp"
 #include <iostream>
 
 using namespace std;
