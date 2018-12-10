@@ -1,9 +1,10 @@
 # data-structures
 
-This pack provides all the features described below, I didn't post a Makefile yet.
+This pack provides all the features described below, including a test file. I didn't post a Makefile yet.
 
-- List : a doubly linked list
-- Stack : a basic stack using the List
-- Queue : a basic queue using the List
+- DList : a basic doubly linked list (includes merge sort)
+- SList : a doubly linked list
+- Stack : a basic stack using the SList
+- Queue : a basic queue using the SList
 
 ###### Enjoy !
